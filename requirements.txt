@@ -3,3 +3,11 @@ requests
 yfinance
 groq
 python-dotenv
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-text-splitters>=0.2.0
+langchain-classic>=0.1.0
+langchain-groq>=0.1.4
+chromadb>=0.5.0
+sentence-transformers>=2.7.0
+pypdf>=4.2.0
